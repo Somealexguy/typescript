@@ -1,0 +1,1 @@
+Create an type in typescript
